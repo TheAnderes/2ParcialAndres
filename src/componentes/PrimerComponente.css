@@ -1,0 +1,23 @@
+.primerComp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cajaYoga{
+    width: 100%;
+    height: fit-content;
+}
+
+.yoga {
+    width: 100%;
+}
+
+.play{
+    position: relative;
+    top: -50px;
+    left: 10px;
+    width: 40px;
+    height: 40px;
+}
