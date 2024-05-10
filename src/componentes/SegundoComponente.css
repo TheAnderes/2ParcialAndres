@@ -7,4 +7,17 @@
     height: 186px;
     background-color: #414865;
     border-radius: 15px;
+    padding: 5px;
+}
+
+.texto1{
+    height: 10px;
+    width: 100%;
+    font-size: 12px;
+}
+
+.texto2{
+    height: 10px;
+    width: 100%;
+    font-size: 12px;
 }

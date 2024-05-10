@@ -4,8 +4,8 @@ import './SegundoComponente.css'
 const segundoComponente = () => {
     return (
         <div className='segundoComp'>
-            <p>Terapia 2</p>
-            <p>Ejercicios pelvicos</p>
+            <p className='texto1'>Terapia 2</p>
+            <p className='texto2'>Ejercicios pelvicos</p>
         </div>
     )
 }
