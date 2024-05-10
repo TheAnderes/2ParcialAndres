@@ -3,7 +3,10 @@ import './SegundoComponente.css'
 
 const segundoComponente = () => {
     return (
-        <div>segundoComponente</div>
+        <div className='segundoComp'>
+            <p>Terapia 2</p>
+            <p>Ejercicios pelvicos</p>
+        </div>
     )
 }
 
